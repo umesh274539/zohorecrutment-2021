@@ -1,0 +1,4 @@
+string s= input(from scanner)
+for(int i=1;i<=length;i++)
+for(j=1;j<=i;j++)
+system.out.println(swap(string));
